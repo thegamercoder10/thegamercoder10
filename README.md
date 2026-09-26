@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://emammadli.pages.dev" target="_blank">Portfolio/CV</a> •
   <a href="mailto:emammadli23089@ada.edu.az">Email</a> •
-  <a href="https://www.linkedin.com/in/thegamercoder19/" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/emammadli/" target="_blank">LinkedIn</a> •
   <a href="https://www.kaggle.com/thegamercoder19" target="_blank">Kaggle</a>
 </p>
 
@@ -19,8 +19,9 @@ I'm a CS undergraduate building toward a PhD in machine learning (targeting Fall
 - **Neuromorphic & Edge ML**
 
 ### 🔭 Current Focus
+- **CloudGen**: Coauthoring on the Satellite Image Reconstruction project.
 - **SWEEP-Net**: Leading research on a domain-agnostic, low-power neuromorphic pipeline for cross-subject EEG affective-state decoding.
-- **IOAI Team Leader & Trainee**: Coordinating and training the national student team in machine learning concepts and AI problem-solving strategies in preparation for the global Olympiad.
+- **IOAI Team Leader**: Coordinating and training the national student team in machine learning concepts and AI problem-solving strategies in preparation for the global Olympiad.
 
 ### 🏆 Track Record
 - **CGPA**: 3.98 / 4.00 (ADA University)
